@@ -1,6 +1,6 @@
 ![Tomas Balsevičius Data Science & AI](./images/title.svg)
 <h1 align="center">Hi 👋, I'm Tomas</h1>
-<h3 align="center">A passionate data scientist freshly graduated from Turing College</h3>
+<h3 align="center">A passionate data scientist freshly graduated from <a href=https://www.turingcollege.com/>Turing College</a></h3>
 
 - 🔭 I’m currently working on **mushroom classification project**
 
