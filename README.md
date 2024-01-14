@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **ML**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -22,3 +20,15 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">My projects:</h3>
+<h4 align="left"><a href=https://github.com/Vienmarskinis/home_credit_default_risk>Loan Credit Analysis and ML</a></h4>
+<ul>
+  <li>EDA using Seaborn, Matplotlib, SweetViz.</li>
+  <li>Statistical inference using chi-square test. Accounting for cofounding variables.</li>
+  <li>Aggregating features from a relational database</li>
+  <li>Predictive modelling using Sklearn pipelines, XGBoost, PyCaret.</li>
+  <li>Model selection using Optuna, explaining using shap, feature selection using BorutaPy & Shap.</li>
+  <li>Threshold selection using business assumptions. Model's impact for customer segments calculation.</li>
+  <li>Project structure and business analysis.</li>
+</ul>
