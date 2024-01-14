@@ -26,9 +26,19 @@
 <ul>
   <li>EDA using Seaborn, Matplotlib, SweetViz.</li>
   <li>Statistical inference using chi-square test. Accounting for cofounding variables.</li>
-  <li>Aggregating features from a relational database</li>
+  <li>Aggregating features from a relational database.</li>
   <li>Predictive modelling using Sklearn pipelines, XGBoost, PyCaret.</li>
   <li>Model selection using Optuna, explaining using shap, feature selection using BorutaPy & Shap.</li>
   <li>Threshold selection using business assumptions. Model's impact for customer segments calculation.</li>
   <li>Project structure and business analysis.</li>
+</ul>
+<h4 align="left"><a href=https://github.com/Vienmarskinis/football_matches>Football Matches Analysis, SQL and ML</a></h4>
+<ul>
+  <li>Querying SQLite databse using DuckDB.</li>
+  <li>EDA using Seaborn, Matplotlib.</li>
+  <li>Statistical inference using t, Z, chi-square tests.</li>
+  <li>Explanatory modelling using statsmodels.</li>
+  <li>Predictive modelling using Sklearn linear and logistic regression.</li>
+  <li>Testing models - trying to win money in future matches.</li>
+  <li>Creating a <a href=https://lookerstudio.google.com/reporting/51d1f099-c5bd-4dbf-96fd-f2db227abac2>Google Looker Studio dashboard</a>.</li>
 </ul>
