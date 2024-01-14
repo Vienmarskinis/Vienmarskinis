@@ -30,6 +30,7 @@
   <li>Predictive modelling using Sklearn pipelines, XGBoost, PyCaret.</li>
   <li>Model selection using Optuna, explaining using shap, feature selection using BorutaPy & Shap.</li>
   <li>Threshold selection using business assumptions. Model's impact for customer segments calculation.</li>
+  <li>Model deployment using Docker, FastAPI and GCP.</li>
   <li>Project structure and business analysis.</li>
 </ul>
 <h4 align="left"><a href=https://github.com/Vienmarskinis/football_matches>Football Matches Analysis, SQL and ML</a></h4>
