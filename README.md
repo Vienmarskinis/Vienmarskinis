@@ -33,6 +33,12 @@
   <li>Model deployment using Docker, FastAPI and GCP.</li>
   <li>Project structure and business analysis.</li>
 </ul>
+<h4 align="left"><a href=https://github.com/Vienmarskinis/lending-club>Loan Approval, Grade, Interest Rate Dataset Analysis and ML</a></h4>
+Quite similar to the Loan Credit project (above), but here's what can be found only in this project:
+<ul>
+  <li>Using Polars LazyFrames and DataFrames.</li>
+  <li>Predictive multi-output modelling.</li>
+</ul>
 <h4 align="left"><a href=https://github.com/Vienmarskinis/football_matches>Football Matches Analysis, SQL and ML</a></h4>
 <ul>
   <li>Querying SQLite databse using DuckDB.</li>
